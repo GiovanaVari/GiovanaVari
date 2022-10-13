@@ -16,7 +16,7 @@
   <img align="center" alt="Gi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="right" alt="Gi-pic" height="150" style="border-radius:50px;" src="https://www.digitalhouse.com/br/blog/content/images/2022/08/Come-ar-com-Java.gif">
+  <img align="right" alt="Gi-pic" height="150" style="border-radius:50px;" src="https://www.digitalhouse.com/br/blog/content/images/2022/06/gifs-do-gatinho-digitando-2.gif">
 </div>
   
   ##
