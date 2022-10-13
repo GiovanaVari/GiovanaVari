@@ -16,7 +16,7 @@
   <img align="center" alt="Gi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="right" alt="Gi-pic" height="150" style="border-radius:50px;" src="[https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif](https://media4.giphy.com/media/ZBythhSiZAoYea6vC2/giphy.gif?cid=790b7611f87855d6dd675c6ccf165b31742412b6b2013a04&rid=giphy.gif&ct=g)">
+  <img align="right" alt="Gi-pic" height="150" style="border-radius:50px;" src="https://media4.giphy.com/media/ZBythhSiZAoYea6vC2/giphy.gif?cid=790b7611f87855d6dd675c6ccf165b31742412b6b2013a04&rid=giphy.gif&ct=g">
 </div>
   
   ##
