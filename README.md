@@ -8,6 +8,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanaVari&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
 
+<div align="center">
+  <a href="https://github.com/GiovanaVari">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GiovanaVari&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanaVari&layout=compact&theme=tokyonight"/>
+</div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Gi-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
